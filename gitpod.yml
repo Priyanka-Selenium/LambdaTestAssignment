@@ -1,0 +1,18 @@
+# Set up the environment and run the Maven project
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: mvn clean install -DskipTests
+  - command: mvn test
+
+# Ports to expose (if needed)
+ports:
+  - port: 8080
+
+vscode:
+  extensions:
+    - redhat.java
+    - vscjava.vscode-java-debug
+    - vscjava.vscode-java-test
+    - vscjava.vscode-maven
