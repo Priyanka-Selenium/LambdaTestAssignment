@@ -27,7 +27,7 @@ After executing the tests on LambdaTest, here are the final test IDs:
 
 ### Step 1: Open in Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/your-repo-link)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://priyankasel-lambdatesta-df9zyr0672w.ws-us116.gitpod.io/)
 
 Click on the button above to open the project in Gitpod.
 
